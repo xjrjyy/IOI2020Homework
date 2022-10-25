@@ -23,7 +23,7 @@
 | [cf626G](https://codeforces.com/contest/626/problem/G)||[cf666D](https://codeforces.com/contest/666/problem/D)||[arc102_f](https://atcoder.jp/contests/arc102/tasks/arc102_d)||
 | [cf605E](https://codeforces.com/contest/605/problem/E)||[agc031_e](https://atcoder.jp/contests/agc031/tasks/agc031_e)||[agc028_d](https://atcoder.jp/contests/agc028/tasks/agc028_d)||
 | [cf536D](https://codeforces.com/contest/536/problem/D)||[agc027_f](https://atcoder.jp/contests/agc027/tasks/agc027_f)||[agc024_e](https://atcoder.jp/contests/agc024/tasks/agc024_e)||
-| [cf553E](https://codeforces.com/contest/553/problem/E)||[agc037_f](https://atcoder.jp/contests/agc037/tasks/agc037_f)||[agc029_c](https://atcoder.jp/contests/agc029/tasks/agc029_c)||
+| [cf553E](https://codeforces.com/contest/553/problem/E)||[agc037_f](https://atcoder.jp/contests/agc037/tasks/agc037_f)||[agc029_c](https://atcoder.jp/contests/agc029/tasks/agc029_c)|[$\checkmark$](https://atcoder.jp/contests/agc029/submissions/27450292)|
 | [cf571D](https://codeforces.com/contest/571/problem/D)||[cf708E](https://codeforces.com/contest/708/problem/E)||[arc093_f](https://atcoder.jp/contests/arc093/tasks/arc093_d)||
 | [cf603E](https://codeforces.com/contest/603/problem/E)||[agc036_e](https://atcoder.jp/contests/agc036/tasks/agc036_e)||[agc021_e](https://atcoder.jp/contests/agc021/tasks/agc021_e)||
 | [cf590E](https://codeforces.com/contest/590/problem/E)||[agc031_d](https://atcoder.jp/contests/agc031/tasks/agc031_d)||[agc026_e](https://atcoder.jp/contests/agc026/tasks/agc026_e)||
@@ -38,7 +38,7 @@
 | [cf568E](https://codeforces.com/contest/568/problem/E)||[cf704C](https://codeforces.com/contest/704/problem/C)||[arc100_f](https://atcoder.jp/contests/arc100/tasks/arc100_d)||
 | [cf538H](https://codeforces.com/contest/538/problem/H)||[agc032_d](https://atcoder.jp/contests/agc032/tasks/agc032_d)||[agc024_d](https://atcoder.jp/contests/agc024/tasks/agc024_d)||
 | [cf582E](https://codeforces.com/contest/582/problem/E)||[agc039_e](https://atcoder.jp/contests/agc039/tasks/agc039_e)||[agc025_f](https://atcoder.jp/contests/agc025/tasks/agc025_f)||
-| [cf526F](https://codeforces.com/contest/526/problem/F)||[agc037_d](https://atcoder.jp/contests/agc037/tasks/agc037_d)||[agc020_e](https://atcoder.jp/contests/agc020/tasks/agc020_e)||
+| [cf526F](https://codeforces.com/contest/526/problem/F)||[agc037_d](https://atcoder.jp/contests/agc037/tasks/agc037_d)||[agc020_e](https://atcoder.jp/contests/agc020/tasks/agc020_e)|[$\checkmark$](https://atcoder.jp/contests/agc020/submissions/35964446)|
 | [cf521E](https://codeforces.com/contest/521/problem/E)||[agc030_f](https://atcoder.jp/contests/agc030/tasks/agc030_f)||[agc026_d](https://atcoder.jp/contests/agc026/tasks/agc026_d)||
 | [cf526G](https://codeforces.com/contest/526/problem/G)||[cf698D](https://codeforces.com/contest/698/problem/D)||[arc089_f](https://atcoder.jp/contests/arc089/tasks/arc089_d)||
 | [cf582D](https://codeforces.com/contest/582/problem/D)||[cf634F](https://codeforces.com/contest/634/problem/F)||[agc020_d](https://atcoder.jp/contests/agc020/tasks/agc020_d)||
